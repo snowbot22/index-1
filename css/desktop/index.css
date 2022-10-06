@@ -310,7 +310,10 @@ footer{
     display: flex;
     flex-flow: column nowrap;
     gap: 1rem;
+}
+.footer a{
     color: white;
+    text-decoration: none;
 }
 .footer__title{
     font-size: 2rem;
