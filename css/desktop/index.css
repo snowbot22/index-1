@@ -304,6 +304,10 @@ footer{
     color: white;
     cursor: pointer;
 }
+.footer a{
+    color: white;
+    text-decoration: none;
+}
 .footer__text{
     font-size: 1.7rem;
     font-family: var(--paragraph);
@@ -311,10 +315,7 @@ footer{
     flex-flow: column nowrap;
     gap: 1rem;
 }
-.footer a{
-    color: white;
-    text-decoration: none;
-}
+
 .footer__title{
     font-size: 2rem;
     font-family: var(--title);
